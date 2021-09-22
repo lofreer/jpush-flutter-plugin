@@ -18,6 +18,6 @@ A new flutter plugin project.
   s.dependency 'JCore','2.6.2'
   s.dependency 'JPush','3.6.1'
   
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.static_framework = true
 end
